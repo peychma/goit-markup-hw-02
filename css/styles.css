@@ -1,0 +1,60 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif ;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 200;
+    color: #434455;
+    background-color: #FFFFFF;
+    font-style: normal;
+}
+#main-title {
+    font-size: 56px;
+    font-weight: 700;
+    font-transform: uppercase;
+    color: #FFFFFF;
+}
+.section-title {
+    font-size: 36px;
+    color: #2E2F42;
+    font-weight: 500;
+}
+.teem .title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 400;
+}
+.portfolio .title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 400;
+}
+.us .title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 400;
+}
+.text {
+    color: #F4F4FD;
+}
+.address .link {
+    text-decoration: none;
+}
+.address .link:hover,
+.address .link:focus {
+color: #404BBF;
+}
+.logo {
+    text-decoration: none;
+}
+.list .link {
+    text-decoration: none;
+}
+.button {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
+}
